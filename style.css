@@ -1,0 +1,50 @@
+div{
+    border: 5px #ddd;
+    background-color: #c5e6f1;
+    position: absolute;
+    padding: 2em 4em;
+   
+    width: 310px;
+   
+    left: 0;
+    right: 0;
+    margin: auto;
+   
+    top: 50vh;
+    transform : translateY(-50%);
+   
+    border-radius: 5px;
+  }
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+  }
+.botao{
+    text-align: center;
+    font-size: 18px;
+    width: 100%;
+    padding: 15px;
+    background-color: #1b2845;
+    color: white;
+    cursor: pointer;
+    border: none;
+    transform : translateY(25%);
+}
+#peso {
+    border: none;
+    width: 89%;
+    font-size: 20px;
+  }
+
+  #altura {
+    border: none;
+    width: 89%;
+    font-size: 20px;
+  }
+  #resp {
+    border: none;
+    width: 100%;
+    font-size: 20px;
+  }
