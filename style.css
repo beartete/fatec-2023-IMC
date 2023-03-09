@@ -34,17 +34,23 @@ body{
 }
 #peso {
     border: none;
-    width: 89%;
+    width: 275px;
     font-size: 20px;
   }
 
   #altura {
     border: none;
-    width: 89%;
+    width: 275px;
     font-size: 20px;
   }
   #resp {
     border: none;
     width: 100%;
     font-size: 20px;
+    padding: 12px;
+    
+  }
+
+  #btn_calcular{
+    width: 330px;
   }
