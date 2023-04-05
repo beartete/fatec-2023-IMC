@@ -1,4 +1,5 @@
-# fatec-2023-IMC 
-Esse é um projeto feito em HTML, CSS e JavaScript. Um projeto que calcula o seu IMC.
+# Calculadora IMC
 
-https://beartete.github.io/fatec-2023-IMC/
+Este é um projeto de trata de uma calculadora imc desenvolvida em HTML, CSS e JavaScript. Feito com base nas instrucões do professor da desciplina de Programação Web da Fatec Itu.
+
+GitPages:
